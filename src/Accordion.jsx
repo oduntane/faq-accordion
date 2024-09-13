@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import {useState} from 'react'
 import minusIcon from './assets/icon-minus.svg'
 import plustIcon from './assets/icon-plus.svg'
